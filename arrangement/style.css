@@ -1,0 +1,25 @@
+body
+{
+    text-align: center;/*顏色*/
+    background-color: rgb(183, 208, 228);
+}
+
+table
+{
+    width:60%;
+    margin:auto;
+    font-size: 1.5em;
+    border: 5px double rgb(138, 64, 141);/*標格邊框線的粗度 顏色*/
+}
+
+td
+{
+    border-top: 1px dashed yellow;
+    border-bottom: 1px solid rgb(99, 15, 107);
+}
+
+th
+{
+    border: 2px solid rosybrown;/*小標的框框*/
+}
+
