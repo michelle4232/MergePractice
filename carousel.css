@@ -5,9 +5,15 @@
 body {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  color: #3d93c5;
+  color: #021018;
 }
 
+.bg-blue
+{
+  background-color: rgb(27, 67, 109);
+  box-shadow: rgb(136, 136, 196);
+  
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
