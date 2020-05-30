@@ -1,16 +1,11 @@
 //影片來源與撥放起迄時間
 //YouTube影片ID
-let playList =[
-    "4iVW7OhZ0p8",//讓我留在你身邊
-    "MJnzEa0FSKk",//全放空
-    "7NN4RlKspW0"//飄向北方
-];
-/*
+
 let playList =[
     "TgOu00Mf3kI",//讓我留在你身邊
     "gmgcRWxhmqY",//全放空
     "mtAc_bMYBsM"//飄向北方
-];*/
+];
 
 //播放起訖秒數
 let playTime = [
