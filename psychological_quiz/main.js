@@ -13,7 +13,7 @@ $(document).ready(function()
             currentQuiz = 0;
             //顯示題目
             $("#question").text(questions[0].question);
-
+           
             //清空選項區域(不加這行玩第一次不會有問題)
             $("#options").empty();
 
@@ -46,13 +46,14 @@ $(document).ready(function()
 
                             //顯示最終成果的標題
                             $("#questions").text(finalAnswers[finalResult][0]);
-
+                            
                             //清空選項區域
                             $("#options").empty();
 
                             //顯示最終成果的內容
                             $("#options").append(finalAnswers[finalResult][1] +　"<br><br>");
-
+                            //$("#pic").append("src", pictures[finalResult]);
+                            $("#pic").attr("src", pictures[finalResult]);
                             //將目前作答到第幾題的變數清空
                             currentQuiz = null;
 
