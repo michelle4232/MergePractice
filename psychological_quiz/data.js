@@ -190,9 +190,9 @@ let finalAnswers={//object
         "D":["《又，吳海英》吳海英","雖然你對自信沒有太大的自信，但内心很堅强，不害怕失敗！這樣的你完全就是《又，吳海英》中的女主角吳海英，另一半最好是能與你有相似的背景，你們可以互相扶持一起成長。這樣的愛情模式是不是很完美呢？"]
 };
 
-let pictures=[
-    "https://images.chinatimes.com/newsphoto/2020-03-13/900/20200313004733.jpg",
-    "https://cdn1.wishnote.tw/200/2017/01/13/200_56281_1484297067.jpeg",
-    "https://i.beauty321.com/816x/https://il.beauty321.com/gallery/articleIMG/month_1707/201707071424567024.jpg",
-    "https://img.kpopdata.com/upload/content/797/770/6989574af854e3dc9380.jpg"
-]
+let pictures={
+    "A":["<img src=\"https://images.chinatimes.com/newsphoto/2020-03-13/900/20200313004733.jpg\">"],
+    "B":["<img src=\"https://cdn1.wishnote.tw/200/2017/01/13/200_56281_1484297067.jpeg\">"],
+    "C":["<img src=\"https://i.beauty321.com/816x/https://il.beauty321.com/gallery/articleIMG/month_1707/201707071424567024.jpg\">"],
+    "D":["<img src=\"https://img.kpopdata.com/upload/content/797/770/6989574af854e3dc9380.jpg\">"]
+}
