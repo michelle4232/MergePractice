@@ -2,9 +2,9 @@
 //YouTube影片ID
 
 let playList =[
-    "pcKR0LPwoYs",//讓我留在你身邊
-    "W0cs6ciCt_k",//全放空
-    "UFFFu0UAcOQ"//飄向北方
+    "6Duo89XuYIM",//讓我留在你身邊
+    "zsZMeEl6Gxk",//全放空
+    "ASAhpOdeQQY"//飄向北方
 
 ];
 
@@ -12,5 +12,5 @@ let playList =[
 let playTime = [
     [57,63],
     [79,85],
-    [42,52]
+    [46,55]
 ]
