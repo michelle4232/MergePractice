@@ -54,7 +54,7 @@ $(document).ready(function()
                             $("#options").append(finalAnswers[finalResult][1] +　"<br><br>");
                             //$("#pic").append("src", pictures[finalResult]);
                             //$("#pic").attr("src", pictures[finalResult]);
-                            $("#pic").append(pictures[finalResult][1] +　"<br><br>");
+                            //$("#pic").append(pictures[finalResult][1] +　"<br><br>");
                            
                             //將目前作答到第幾題的變數清空
                             currentQuiz = null;
