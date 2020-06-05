@@ -45,7 +45,7 @@ $(document).ready(function()
                             let finalResult = questions[currentQuiz].answers[i][1];
 
                             //顯示最終成果的標題
-                            $("#questions").text(finalAnswers[finalResult][0]);
+                            $("#options").text(finalAnswers[finalResult][0]+"<br><br>");
                             
                             //清空選項區域
                             $("#options").empty();
